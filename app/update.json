@@ -1,0 +1,9 @@
+{
+    "versionCode": 2,
+    "versionName": "0.2.0",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.0.apk",
+    "sha256": "8833b0153dfbe7ef1915a3bed38bb9539c7970bfeb10ffc8baf72a7e042e6248",
+    "size": 4215008,
+    "releaseNotes": "\u2022 Update ZareStreams from inside the app: Settings \u2192 Updates \u2192 Check for updates.\n\u2022 Optional: check for updates every time the app opens, and download them automatically.\n\u2022 After each update you'll see what's new (like this message).",
+    "published": "2026-10-15"
+}
