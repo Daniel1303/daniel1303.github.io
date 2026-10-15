@@ -1,9 +1,9 @@
 {
-    "versionCode": 6,
-    "versionName": "0.2.4",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.4.apk",
-    "sha256": "a6590cb1d134884369f17707df7696daf809657b342ae0f90b9f9f54a75dbfa1",
-    "size": 4215018,
-    "releaseNotes": "\u2022 ZareStreams now reopens by itself after an update installs. If it just did, it works!",
+    "versionCode": 7,
+    "versionName": "0.2.5",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.5.apk",
+    "sha256": "1fd3cf84b4804d6b1990d289197fba966d936ee29de3edc7a93bcbe838cd1e91",
+    "size": 4264172,
+    "releaseNotes": "\u2022 New: Requests. Can't find a movie or TV show? Search for it and request it, and you'll be told when it's added.\n\u2022 New: Report a problem with a movie or episode, or report missing episodes from a show's page. You can delete a report from the Requests page if you made it by mistake.\n\u2022 Going back to Movies or TV Shows now returns you to the title you were on.\n\u2022 A cleaner look: compact icon buttons and simpler home screen cards.",
     "published": "2026-10-15"
 }
