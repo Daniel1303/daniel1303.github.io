@@ -1,9 +1,9 @@
 {
-    "versionCode": 3,
-    "versionName": "0.2.1",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.1.apk",
-    "sha256": "af821164549068cb7d24143469313df5c738ff5f6a5150f8f69d5786513ad63d",
+    "versionCode": 4,
+    "versionName": "0.2.2",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.2.apk",
+    "sha256": "a4b1a793cc02b06591e250035e890feca092f85dc8e525d7f3787aaf10181133",
     "size": 4215015,
-    "releaseNotes": "\u2022 Clearer messages when checking for updates doesn't work, e.g. when there's no internet connection.\n\u2022 This is also the first update installed from inside the app. If you're reading this, it worked!",
+    "releaseNotes": "\u2022 Press Done on the keyboard after typing your password to log in straight away.\n\u2022 After choosing Update now, the install screen opens by itself once the download finishes.\n\u2022 Tidier update pop-up.",
     "published": "2026-10-15"
 }
