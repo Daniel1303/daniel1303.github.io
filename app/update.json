@@ -1,9 +1,9 @@
 {
-    "versionCode": 5,
-    "versionName": "0.2.3",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.3.apk",
-    "sha256": "b187c2c4338affc8248bac6bb913801c1e80ef9e0fccdbdd0a435ee1c555a0b1",
-    "size": 4214995,
-    "releaseNotes": "\u2022 From the next update on, ZareStreams reopens by itself once an update has installed.",
+    "versionCode": 6,
+    "versionName": "0.2.4",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.4.apk",
+    "sha256": "a6590cb1d134884369f17707df7696daf809657b342ae0f90b9f9f54a75dbfa1",
+    "size": 4215018,
+    "releaseNotes": "\u2022 ZareStreams now reopens by itself after an update installs. If it just did, it works!",
     "published": "2026-10-15"
 }
