@@ -1,9 +1,9 @@
 {
-    "versionCode": 4,
-    "versionName": "0.2.2",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.2.apk",
-    "sha256": "a4b1a793cc02b06591e250035e890feca092f85dc8e525d7f3787aaf10181133",
-    "size": 4215015,
-    "releaseNotes": "\u2022 Press Done on the keyboard after typing your password to log in straight away.\n\u2022 After choosing Update now, the install screen opens by itself once the download finishes.\n\u2022 Tidier update pop-up.",
+    "versionCode": 5,
+    "versionName": "0.2.3",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.3.apk",
+    "sha256": "b187c2c4338affc8248bac6bb913801c1e80ef9e0fccdbdd0a435ee1c555a0b1",
+    "size": 4214995,
+    "releaseNotes": "\u2022 From the next update on, ZareStreams reopens by itself once an update has installed.",
     "published": "2026-10-15"
 }
