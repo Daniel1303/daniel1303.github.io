@@ -1,9 +1,9 @@
 {
-    "versionCode": 8,
-    "versionName": "0.2.6",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.6.apk",
-    "sha256": "7f0bcea04fd6b2fadaab4261c9fa7c63d513d20b682cbf5d3224fb89be311909",
-    "size": 4264168,
-    "releaseNotes": "\u2022 Movies, TV Shows and Live TV now open instantly: the lists are downloaded when ZareStreams starts and kept, instead of on every visit.\n\u2022 They stay up to date by themselves. Choose how often in Settings \u2192 Channels and titles, or refresh them yourself there.\n\u2022 Updates are now at the top of Settings.",
-    "published": "2026-10-15"
+    "versionCode": 9,
+    "versionName": "0.2.7",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.7.apk",
+    "sha256": "fb8e9762a10c504e63ab4d4c059f40e52270fa3b9768b85804d151acd3854203",
+    "size": 4280551,
+    "releaseNotes": "\u2022 Subtitles are remembered for each show, and come back on by themselves for the next episode.\n\u2022 A Next episode button appears when the credits start.\n\u2022 Skip intro, Skip recap and Next episode press themselves after 10 seconds (press BACK to cancel).\n\u2022 Skip intro now works on many more shows, with timings checked to fit your copy of the episode.\n\u2022 Online subtitles: better matches first, and adding them no longer pauses the video.\n\u2022 Long descriptions and titles scroll so you can read all of them.\n\u2022 TV guide: channels show by name only, and there's always something to highlight at the current time.",
+    "published": "2026-10-16"
 }
