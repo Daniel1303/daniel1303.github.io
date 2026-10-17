@@ -1,9 +1,9 @@
 {
-    "versionCode": 9,
-    "versionName": "0.2.7",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.7.apk",
-    "sha256": "fb8e9762a10c504e63ab4d4c059f40e52270fa3b9768b85804d151acd3854203",
-    "size": 4280551,
-    "releaseNotes": "\u2022 Subtitles are remembered for each show, and come back on by themselves for the next episode.\n\u2022 A Next episode button appears when the credits start.\n\u2022 Skip intro, Skip recap and Next episode press themselves after 10 seconds (press BACK to cancel).\n\u2022 Skip intro now works on many more shows, with timings checked to fit your copy of the episode.\n\u2022 Online subtitles: better matches first, and adding them no longer pauses the video.\n\u2022 Long descriptions and titles scroll so you can read all of them.\n\u2022 TV guide: channels show by name only, and there's always something to highlight at the current time.",
-    "published": "2026-10-16"
+    "versionCode": 10,
+    "versionName": "0.2.8",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.8.apk",
+    "sha256": "85e50b0c1fc7e448278284f5d6f5660aed49921bc69171a23e8d6930eeefdef2",
+    "size": 4280544,
+    "releaseNotes": "\u2022 TV guide: Favourites is now first and opens by default, and HD channels without a schedule show the standard channel's.\n\u2022 Movies and TV Shows open on your Favourites row, with Cast, Genres and Director beside the banner.\n\u2022 Text that doesn't fit now scrolls everywhere in the app, including full episode descriptions.\n\u2022 Online subtitles: better automatic picks, and a set you choose is preferred for the rest of the show.\n\u2022 Smaller tidy-ups: a divider in the Categories menus, and the seasons count is gone from the details page.",
+    "published": "2026-10-17"
 }
