@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>ZareStreams</title>
   <meta name="description" content="ZareStreams: watch in your browser or get the Android app." />
-  <meta name="theme-color" content="#0b0b0d" />
   <link rel="icon" type="image/png" href="favicon.png" />
   <link rel="apple-touch-icon" href="icon-192.png" />
   <meta property="og:title" content="ZareStreams" />
@@ -23,17 +22,22 @@
 
     * { box-sizing: border-box; }
 
-    html, body { height: 100%; }
+    html { height: 100%; background: var(--bg); }
 
     body {
       margin: 0;
       min-height: 100%;
+      min-height: 100dvh;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      padding: 48px 16px 32px;
-      background: var(--bg);
+      /* Draws behind the phone's status bar and browser bar too; keep the content clear of them. */
+      padding:
+        calc(48px + env(safe-area-inset-top))
+        calc(16px + env(safe-area-inset-right))
+        calc(32px + env(safe-area-inset-bottom))
+        calc(16px + env(safe-area-inset-left));
       color: var(--text);
       font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       -webkit-font-smoothing: antialiased;
@@ -46,10 +50,9 @@
       position: fixed;
       left: 50%;
       top: 50%;
+      /* Bigger than any phone screen, so the glow carries on under the status bar and browser bar. */
       width: 1100px;
       height: 1100px;
-      max-width: 220vw;
-      max-height: 220vw;
       transform: translate(-50%, -50%);
       background: radial-gradient(closest-side, rgba(239, 28, 36, 0.45), rgba(239, 28, 36, 0.16) 55%, transparent);
       pointer-events: none;
